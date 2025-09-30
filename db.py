@@ -1,6 +1,6 @@
 #pip install psycopg2
 #pip install dotenv
-import psycopg2
+import psycopg2 as pg
 from dotenv import load_dotenv
 import os
 

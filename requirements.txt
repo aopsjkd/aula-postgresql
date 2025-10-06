@@ -1,0 +1,3 @@
+pscopg2==2.9.10
+python-dotanv==1.1.1
+streamlit==1.49.1
